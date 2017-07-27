@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Sprites
+  m_EditorData:
+    textureSettings:
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      colorSpace: 1
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+    platformSettings: []
+    packingParameters:
+      paddingPower: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    packedHash:
+      serializedVersion: 2
+      Hash: 5a739c2ad297a5dc07cb97470d52c698
+    variantMultiplier: 1
+    bindAsDefault: 1
+    finalFormat: 4
+    hashString: 5a739c2ad297a5dc07cb97470d52c698
+    totalSpriteSurfaceArea: 548
+    packables:
+    - {fileID: 2800000, guid: 8636e15c482bd4a4585593914e103592, type: 3}
+    - {fileID: 2800000, guid: 83cc81a202a37484a917faac22541a54, type: 3}
+    - {fileID: 2800000, guid: 259aa77c94243497e9b26795228ba6e1, type: 3}
+    - {fileID: 2800000, guid: fce2077d7f2c3447ab20dcbb573eb1b2, type: 3}
+    - {fileID: 2800000, guid: 4fa3c8b42b0474601909a133dfdccd19, type: 3}
+    - {fileID: 2800000, guid: 0c0222e03aeb8441481378d5d07f11f2, type: 3}
+    - {fileID: 2800000, guid: 33b3a1354ff4944a19540a71a74a879b, type: 3}
+    - {fileID: 2800000, guid: 655510552b9f34c019e923835bad47c4, type: 3}
+    packedSpriteRenderDataKeys:
+    - 8636e15c482bd4a4585593914e103592: 21300000
+    - 0c0222e03aeb8441481378d5d07f11f2: 21300000
+    - 655510552b9f34c019e923835bad47c4: 21300000
+    - 83cc81a202a37484a917faac22541a54: 21300000
+    - fce2077d7f2c3447ab20dcbb573eb1b2: 21300000
+    - 33b3a1354ff4944a19540a71a74a879b: 21300000
+    - 4fa3c8b42b0474601909a133dfdccd19: 21300000
+    - 259aa77c94243497e9b26795228ba6e1: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 8636e15c482bd4a4585593914e103592, type: 3}
+  - {fileID: 21300000, guid: 0c0222e03aeb8441481378d5d07f11f2, type: 3}
+  - {fileID: 21300000, guid: 655510552b9f34c019e923835bad47c4, type: 3}
+  - {fileID: 21300000, guid: 83cc81a202a37484a917faac22541a54, type: 3}
+  - {fileID: 21300000, guid: fce2077d7f2c3447ab20dcbb573eb1b2, type: 3}
+  - {fileID: 21300000, guid: 33b3a1354ff4944a19540a71a74a879b, type: 3}
+  - {fileID: 21300000, guid: 4fa3c8b42b0474601909a133dfdccd19, type: 3}
+  - {fileID: 21300000, guid: 259aa77c94243497e9b26795228ba6e1, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Tile
+  - Middle
+  - WhiteSmall
+  - Black
+  - BlackToWhite
+  - BlackSmall
+  - WhiteToBlack
+  - White
+  m_Tag: Sprites
+  m_IsVariant: 0
